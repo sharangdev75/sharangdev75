@@ -13,7 +13,29 @@
 
 - 🔭 I’m currently working on **examining how sentiments expressed on Twitter (X) affect the stock market. I collect and analyze tweets related to specific companies and their stock symbols. 📊 Natural language processing techniques are used to determine sentiment (positive, negative, neutral) and assess the overall market sentiment. This analysis is valuable for traders, investors, and financial institutions seeking to gauge market sentiment in real-time. 💼📉 Both analyses involve data collection, cleaning, and utilizing tools such as 🐍 Python, 📊 R, and 📈 Tableau for visualization. The goal is to provide actionable insights based on data-driven analysis. 📈🔍**
 
-- 💬 Ask me about **📈 Predictive Modeling in Finance: Machine learning models 🤖📊 can predict stock prices or market trends based on historical data by analyzing patterns and relationships in the data. Techniques like time series analysis, regression, and deep learning can be employed to make predictions. 📈📉 🔍 Fraud Detection: Effective machine learning algorithms 🧐🕵️‍♂️ for detecting fraudulent financial transactions include Random Forest, Support Vector Machines, and Neural Networks. These algorithms analyze transaction patterns and identify anomalies indicative of fraud. 💳🚫 💳 Credit Scoring: Machine learning contributes to credit risk assessment by analyzing an applicant's financial history, credit utilization, and other factors. Models like logistic regression and gradient boosting can predict creditworthiness. 📊💰 📊 Portfolio Optimization: Machine learning can optimize investment portfolios by considering risk and return. Techniques like Mean-Variance Optimization and Reinforcement Learning can help balance the portfolio for maximum returns with acceptable risk. 📈📊 🛠️ AWS SageMaker: Amazon SageMaker is a fully managed service for building, training, and deploying machine learning models. In finance, it can be used to develop predictive models for stock prices or fraud detection. SageMaker streamlines the machine learning lifecycle, making it efficient for financial applications. ☁️🤖 🚀 Amazon Redshift: Amazon Redshift is a data warehousing and analytics service that can handle large-scale financial data. It enables high-performance querying and analysis, making it suitable for financial data analysis and reporting. 📊🔍 📊 Amazon QuickSight: Amazon QuickSight is a BI service that helps create financial dashboards and visualizations. It allows you to present financial data in a user-friendly manner, aiding in decision-making. 📈📊 🧩 AWS Glue: AWS Glue simplifies data preparation and ETL processes for financial data analysis. It automates data transformation tasks, ensuring data is ready for analysis in services like Redshift and Athena. 🛠️📊💼**
+- 💬 Ask me about **Predictive Modeling in Finance:
+ -Machine learning models 🤖📊 can predict stock prices or market trends based on historical data by analyzing patterns and relationships in the data.
+Techniques like time series analysis, regression, and deep learning can be employed to make predictions. 📈📉
+-Fraud Detection:
+Effective machine learning algorithms 🧐🕵️‍♂️ for detecting fraudulent financial transactions include Random Forest, Support Vector Machines, and Neural Networks. These algorithms analyze transaction patterns and identify anomalies indicative of fraud. 💳🚫
+-Credit Scoring:
+Machine learning contributes to credit risk assessment by analyzing an applicant's financial	 history, credit utilization, and other factors.
+Models like logistic regression and gradient boosting can predict creditworthiness. 📊💰
+-Portfolio Optimization:
+Machine learning can optimize investment portfolios by considering risk and return.
+Techniques like Mean-Variance Optimization and Reinforcement Learning can help balance the portfolio for maximum returns with acceptable risk. 📈📊
+-AWS SageMaker:
+Amazon SageMaker is a fully managed service for building, training, and deploying machine learning models. In finance, it can be used to develop predictive models for stock prices or fraud detection. SageMaker streamlines the machine learning lifecycle, making it efficient for financial applications. ☁️🤖
+-Amazon Athena:
+Amazon Athena is a data base and analytics service that can handle large-scale financial data.
+It enables high-performance querying and analysis, making it suitable for financial data analysis and reporting. 📊🔍
+-Amazon QuickSight:
+Amazon QuickSight is a BI service that helps create financial dashboards and visualizations.
+It allows you to present financial data in a user-friendly manner, aiding in decision-making. 📈📊
+-AWS Glue:
+AWS Glue simplifies data preparation and ETL processes for financial data analysis.
+It automates data transformation tasks, ensuring data is ready for analysis in services like Redshift and Athena. 🛠️📊💼
+**
 
 - 📫 How to reach me **sharangdev75@gmail.com**
 
