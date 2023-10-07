@@ -27,7 +27,7 @@
 ### 💬 Ask me about:
 - **Predictive Modeling in Finance 🤖📊**: Predictive Modeling in Finance 🤖📊
 
-Machine learning models 🤖📊 can predict stock prices or market trends based on historical data by analyzing patterns and relationships in the data. Techniques like time series analysis, regression, and deep learning can be employed to make predictions. 📈📉
+- ***Machine learning models 🤖📊 can predict stock prices or market trends based on historical data by analyzing patterns and relationships in the data. Techniques like time series analysis, regression, and deep learning can be employed to make predictions. 📈📉
 
 Stock price prediction: Machine learning models can be used to predict future stock prices based on historical data, such as price movements, trading volume, and macroeconomic factors. This can help investors make informed investment decisions.
 Market trend prediction: Machine learning models can also be used to predict market trends, such as bull and bear markets. This can help investors identify investment opportunities and mitigate risks.
