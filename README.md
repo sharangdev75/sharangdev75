@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shang Srivastava 👋</h1>
+<h1 align="center">Hi, I'm Sharang Srivastava 👋</h1>
 <h3 align="center">Enthusiastic Data Scientist/Analyst</h3>
 
 ### 🔭 Current Projects:
